@@ -1,1 +1,0 @@
-# azure-resources-using-variables
