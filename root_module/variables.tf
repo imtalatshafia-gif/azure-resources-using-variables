@@ -1,0 +1,9 @@
+variable "rootresource" {}
+variable "rootstorage" {}
+variable "rootvirtual_network" {}
+variable "rootvnet_peering" {}
+variable "rootsubnet" {}
+variable "rootnetwork_interface" {}
+variable "rootpublic_ip" {}
+variable "rootvirtual_machine" {}
+variable "bastion_host" {}
